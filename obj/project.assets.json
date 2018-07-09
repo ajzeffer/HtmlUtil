@@ -12405,11 +12405,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\git\\github\\ajzeffer\\TransStateUnescapeApp\\TransStateUnescapeApp.csproj",
+      "projectUniqueName": "c:\\git\\Other\\HtmlUtil\\TransStateUnescapeApp.csproj",
       "projectName": "TransStateUnescapeApp",
-      "projectPath": "c:\\Dev\\git\\github\\ajzeffer\\TransStateUnescapeApp\\TransStateUnescapeApp.csproj",
+      "projectPath": "c:\\git\\Other\\HtmlUtil\\TransStateUnescapeApp.csproj",
       "packagesPath": "C:\\Users\\azeffer\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\git\\github\\ajzeffer\\TransStateUnescapeApp\\obj\\",
+      "outputPath": "c:\\git\\Other\\HtmlUtil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12423,7 +12423,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://drivetimeinc.pkgs.visualstudio.com/_packaging/dt-nuget/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
